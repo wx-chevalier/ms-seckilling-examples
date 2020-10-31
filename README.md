@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/BE-Kits/seckilling-examples">
+  <a href="https://github.com/wx-chevalier/seckilling-examples">
     <img src="https://s2.ax1x.com/2020/01/06/lr21MT.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -16,14 +16,14 @@
   <p align="center">
     高可用秒杀场景的实践案例
     <br />
-    <a href="https://github.com/BE-Kits/seckilling-examples"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/wx-chevalier/seckilling-examples"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BE-Kits/seckilling-examples">View Demo</a>
+    <a href="https://github.com/wx-chevalier/seckilling-examples">View Demo</a>
     ·
-    <a href="https://github.com/BE-Kits/seckilling-examples/issues">Report Bug</a>
+    <a href="https://github.com/wx-chevalier/seckilling-examples/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BE-Kits/seckilling-examples/issues">Request Feature</a>
+    <a href="https://github.com/wx-chevalier/seckilling-examples/issues">Request Feature</a>
   </p>
 </p>
 
@@ -35,7 +35,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`BE-Kits`, `seckilling-examples`, `twitter_handle`, `email`
+`wx-chevalier`, `seckilling-examples`, `twitter_handle`, `email`
 
 ## Nav | 导航
 
@@ -58,7 +58,7 @@ npm install npm@latest -g
 1. Clone the seckilling-examples
 
 ```sh
-git clone https://github.com/BE-Kits/seckilling-examples.git
+git clone https://github.com/wx-chevalier/seckilling-examples.git
 ```
 
 2. Install NPM packages
@@ -81,7 +81,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/BE-Kits/seckilling-examples/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/wx-chevalier/seckilling-examples/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -118,13 +118,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/BE-Kits/seckilling-examples.svg?style=flat-square
-[contributors-url]: https://github.com/BE-Kits/seckilling-examples/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BE-Kits/seckilling-examples.svg?style=flat-square
-[forks-url]: https://github.com/BE-Kits/seckilling-examples/network/members
-[stars-shield]: https://img.shields.io/github/stars/BE-Kits/seckilling-examples.svg?style=flat-square
-[stars-url]: https://github.com/BE-Kits/seckilling-examples/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BE-Kits/seckilling-examples.svg?style=flat-square
-[issues-url]: https://github.com/BE-Kits/seckilling-examples/issues
-[license-shield]: https://img.shields.io/github/license/BE-Kits/seckilling-examples.svg?style=flat-square
-[license-url]: https://github.com/BE-Kits/seckilling-examples/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/seckilling-examples.svg?style=flat-square
+[contributors-url]: https://github.com/wx-chevalier/seckilling-examples/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/seckilling-examples.svg?style=flat-square
+[forks-url]: https://github.com/wx-chevalier/seckilling-examples/network/members
+[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/seckilling-examples.svg?style=flat-square
+[stars-url]: https://github.com/wx-chevalier/seckilling-examples/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/seckilling-examples.svg?style=flat-square
+[issues-url]: https://github.com/wx-chevalier/seckilling-examples/issues
+[license-shield]: https://img.shields.io/github/license/wx-chevalier/seckilling-examples.svg?style=flat-square
+[license-url]: https://github.com/wx-chevalier/seckilling-examples/blob/master/LICENSE.txt
